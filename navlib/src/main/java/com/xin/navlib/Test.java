@@ -1,6 +1,7 @@
-package com.xin.nav;
+package com.xin.navlib;
 
 public class Test {
     public static void print(){
+
     }
 }

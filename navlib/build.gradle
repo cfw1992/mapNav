@@ -1,6 +1,4 @@
 apply plugin: 'com.android.library'
-apply plugin: 'com.github.dcendents.android-maven'
-group='com.github.cfw1992'
 android {
     compileSdkVersion 29
     defaultConfig {
@@ -27,5 +25,4 @@ repositories {
 dependencies {
     api fileTree(dir: 'libs', include: ['*.jar'])
     api fileTree (dir: 'libs', include: ['*.aar'])
-    api project(':navlib')
 }
