@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/chenfangwei/Documents/城建/插件/demo/Android-SDK1/地图单独依赖/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml",
+            "map": [
+                {
+                    "source": "/Users/chenfangwei/.gradle/caches/transforms-2/files-2.1/43d6c32079ff0a86ad27647291bb53e5/jetified-onsdk_all/res/values-v11/values-v11.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "188"
+                    }
+                }
+            ]
+        }
+    ]
+}
